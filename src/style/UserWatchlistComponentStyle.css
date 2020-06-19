@@ -1,0 +1,8 @@
+table#user-watchlist-component-table {
+    background-color: powderblue;
+}
+
+table, th, td {
+    border: 1px solid black;
+    background-color: powderblue;
+}

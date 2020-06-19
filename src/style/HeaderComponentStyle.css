@@ -1,0 +1,34 @@
+div#homepage-header-component-logged-in-row {
+    background-color: pink;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+div#homepage-header-component-login-row {
+    background-color: pink;
+    width: 100%;
+    word-wrap: break-word;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+button#homepage-header-component-login-button {
+    background-color: blue;
+    color: white;
+}
+
+button#homepage-header-component-register-button {
+    background-color: red;
+    color: white;
+}
+
+button#header-component-search-button {
+    background-color: green;
+    color: white;
+}
+
+button#homepage-header-component-logout-button {
+    background-color: red;
+    color: white;
+}

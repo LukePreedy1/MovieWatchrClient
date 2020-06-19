@@ -1,0 +1,15 @@
+div#most-popular-users {
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+div#most-popular-not-logged-in {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+div#most-popular-logged-in {
+    padding-right: 10px;
+    padding-left: 10px;
+}

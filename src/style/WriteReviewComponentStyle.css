@@ -1,0 +1,10 @@
+button#submit-review-button {
+    background-color: blue;
+    color: white;
+}
+
+div#write-review-component {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}

@@ -1,0 +1,22 @@
+button#follow-btn {
+    background-color: blue;
+    color: white;
+}
+
+button#unfollow-btn {
+    background-color: red;
+    color: white;
+}
+
+b#username-text {
+    font-size: 20px;
+}
+
+button.nav-item {
+    background-color: IndianRed;
+    border-color: black;
+}
+
+button.active {
+    background-color: lightgreen;
+}

@@ -1,0 +1,49 @@
+center#is-watched-marker {
+    margin-bottom: 10px;
+}
+
+button#mark-movie-as-watched-button {
+    margin-bottom: 10px;
+    background-color: blue;
+    color: white;
+}
+
+button#review-button {
+    margin-bottom: 10px;
+    background-color: green;
+    color: white;
+}
+
+button#remove-from-watchlist-button {
+    margin-bottom: 10px;
+    background-color: red;
+    color: white;
+}
+
+button#add-to-watchlist-button {
+    margin-bottom: 10px;
+    background-color: yellow;
+    color: black;
+}
+
+div#media-review-section {
+    background-color: slategrey;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+div#description-reviews-div {
+    background-color: silver;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+div.movie-component {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

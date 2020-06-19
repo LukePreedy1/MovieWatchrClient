@@ -1,0 +1,19 @@
+div#page {
+    background-color: aquamarine;
+}
+
+div.container {
+    background-color: cornsilk;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+div#privacy-policy-container {
+    background-color: gainsboro;
+}
+
+button.btn {
+    border-color: black
+}

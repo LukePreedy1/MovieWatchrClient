@@ -1,0 +1,56 @@
+div#review-text {
+    word-wrap: break-word;
+}
+
+div#review-component {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+
+}
+
+button#display-likes-button {
+    margin-bottom: 5px;
+    background-color: blue;
+    color: white;
+}
+
+button#hide-likes-button{
+    margin-bottom: 5px;
+    background-color: red;
+    color: white;
+}
+
+button#edit-review-button {
+    margin-bottom: 5px;
+    background-color: red;
+    color: white;
+}
+
+button#save-review-button {
+    margin-bottom: 5px;
+    background-color: green;
+    color: white;
+}
+
+button#delete-review-button {
+    margin-bottom: 5px;
+    background-color: red;
+    color: white;
+}
+
+i#review-has-been-edited {
+    font-size: 12px;
+}
+
+button#like-review-button {
+    background-color: green;
+    color: white;
+    margin-bottom: 5px;
+}
+
+button#unlike-review-button {
+    background-color: red;
+    color: white;
+    margin-bottom: 5px;
+}

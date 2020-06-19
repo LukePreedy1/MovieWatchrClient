@@ -1,0 +1,19 @@
+p.review-list-row-text {
+    word-wrap: break-word;
+}
+
+button.like-review-button {
+    background-color: lightgreen;
+    color: black;
+}
+
+button.unlike-review-button {
+    background-color: orangered;
+    color: black;
+}
+
+li.review-list-row {
+    margin-bottom: 5px;
+    border: 2px black solid;
+    background-color: papayawhip;
+}
